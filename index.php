@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: taaas
- * Date: 06/29/2018
- * Time: 18:53
- */
 $array = array(
     5,
     6,
